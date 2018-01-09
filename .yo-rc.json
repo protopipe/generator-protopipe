@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Alwin Mark",
+      "authorEmail": "alwin@atk-solutions.de",
+      "authorUrl": ""
+    }
+  }
+}
